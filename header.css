@@ -61,5 +61,7 @@
     .container__link {
       display: flex;
       align-items: center;
+      text-decoration: none;
+      color: var(--preto);
     }
   }
